@@ -7,9 +7,9 @@ We believe in an SHSG that is transparent, responsive, and committed to real cha
 Our goal is to go beyond promises and deliver meaningful improvements—from better study spaces to a more vibrant campus culture.
 
 <!-- Insert your images below. -->
-![Campaign Image 1](images/image1.jpg)
-![Campaign Image 2](images/image2.jpg)
-![Campaign Image 3](images/image3.jpg)
+![Campaign Image 1](images/Image1.jpg)
+![Campaign Image 2](images/Image2.jpg)
+![Campaign Image 3](images/Image3.jpg)
 
 ## Our Concrete Plans – More Than Just Promises
 
