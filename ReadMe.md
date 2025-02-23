@@ -60,8 +60,8 @@
   </p>
   <p>We will:</p>
   <ul>
-    <li>✅ Expand study space capacity by optimizing existing areas and creating new ones.</li>
-    <li>✅ Collaborate with the university to repurpose underused spaces.</li>
+    <li> Expand study space capacity by optimizing existing areas and creating new ones.</li>
+    <li> Collaborate with the university to repurpose underused spaces.</li>
   </ul>
 </details>
 
@@ -72,8 +72,8 @@
   </p>
   <p>We will:</p>
   <ul>
-    <li>✅ Add microwaves at key locations, especially at Mensa A.</li>
-    <li>✅ Ensure better distribution across campus for easier access.</li>
+    <li> Add microwaves at key locations, especially at Mensa A.</li>
+    <li> Ensure better distribution across campus for easier access.</li>
   </ul>
 </details>
 
@@ -84,9 +84,9 @@
   </p>
   <p>We will:</p>
   <ul>
-    <li>✅ Expand Adhoc to accommodate more students.</li>
-    <li>✅ Enhance event accessibility so no one is left out.</li>
-    <li>✅ Strengthen campus culture with more space for engagement.</li>
+    <li> Expand Adhoc to accommodate more students.</li>
+    <li> Enhance event accessibility so no one is left out.</li>
+    <li> Strengthen campus culture with more space for engagement.</li>
   </ul>
 </details>
 
@@ -97,9 +97,9 @@
   </p>
   <p>We will:</p>
   <ul>
-    <li>✅ Ensure co-working spaces remain open during study phases.</li>
-    <li>✅ Advocate for broader university access during critical periods.</li>
-    <li>✅ Discuss with the administration to prevent full campus closure over Christmas.</li>
+    <li> Ensure co-working spaces remain open during study phases.</li>
+    <li> Advocate for broader university access during critical periods.</li>
+    <li> Discuss with the administration to prevent full campus closure over Christmas.</li>
   </ul>
 </details>
 
@@ -110,9 +110,9 @@
   </p>
   <p>We will:</p>
   <ul>
-    <li>✅ Push for open and accessible SHSG meetings, where students can directly engage with leadership.</li>
-    <li>✅ Provide clear updates on major decisions through easy-to-access summaries and Q&amp;A sessions.</li>
-    <li>✅ Ensure more student participation in key decision-making processes, so everyone has a say in shaping their university experience.</li>
+    <li> Push for open and accessible SHSG meetings, where students can directly engage with leadership.</li>
+    <li> Provide clear updates on major decisions through easy-to-access summaries and Q&amp;A sessions.</li>
+    <li> Ensure more student participation in key decision-making processes, so everyone has a say in shaping their university experience.</li>
   </ul>
 </details>
 
@@ -123,9 +123,9 @@
   </p>
   <p>We will:</p>
   <ul>
-    <li>✅ Create more interactive student spaces.</li>
-    <li>✅ Organize more networking &amp; cultural events.</li>
-    <li>✅ Continue the Christmas event at the Square, making it an annual tradition that brings students together and fosters a stronger sense of community.</li>
+    <li> Create more interactive student spaces.</li>
+    <li> Organize more networking &amp; cultural events.</li>
+    <li> Continue the Christmas event at the Square, making it an annual tradition that brings students together and fosters a stronger sense of community.</li>
   </ul>
 </details>
 
@@ -149,7 +149,7 @@
   
   <!-- Candidate Headings -->
 
-  <h2 style="text-align: center; color: #007030;">🗳 Change You Can See, Value You Can Feel</h2>
+  <h2 style="text-align: center; color: #007030;">Change You Can See, Value You Can Feel</h2>
   
   <!-- Candidate Description -->
   <p>
