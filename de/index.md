@@ -5,7 +5,7 @@ permalink: /de/index/
 ---
 <!-- Header with full width logo -->
 <div style="width: 100%; margin-bottom: 1rem;">
-  <img src="images/NewImage.jpeg" alt="Logo" style="width: 100%; height: auto;">
+  <img src="./images/NewImage.jpeg" alt="Logo" style="width: 100%; height: auto;">
 </div>
 
 <!-- Inline CSS styles -->
@@ -40,7 +40,7 @@ permalink: /de/index/
 </style>
 
 <!-- Kampagnen-Image -->
-<img src="images/Image1.jpeg" alt="Kampagnenbild 1">
+<img src="./images/Image1.jpeg" alt="Kampagnenbild 1">
 
 <!-- Was wir vertreten -->
 <h2>Wofür wir stehen – Eine SHSG, die wirklich etwas bewegt</h2>
@@ -150,7 +150,7 @@ permalink: /de/index/
 <div style="margin-bottom: 3rem;">
   <h2 style="text-align: center; color: #007030;">Leonardo Moser – Kandidat für das SHSG-Präsidium</h2>
     <!-- Leonardo Candidate Image -->
-  <img src="images/Image3.jpeg" alt="Kampagnenbild Leonardo" style="display: block; margin: 0 auto; max-width: 100%;">
+  <img src="./images/Image3.jpeg" alt="Kampagnenbild Leonardo" style="display: block; margin: 0 auto; max-width: 100%;">
   <h3 style="text-align: center; color: #007030;">Change You Can See, Value You Can Feel</h3>
   
   <p>
@@ -185,7 +185,7 @@ permalink: /de/index/
 <!-- Julian's Section -->
 <div>
   <h2 style="text-align: center; color: #007030;">Julian Bodenmann – Kandidat für das SHSG-Vizepräsidium</h2>
-    <img src="images/Image2.jpeg" alt="Kampagnenbild Julian" style="display: block; margin: 0 auto; max-width: 100%;">
+    <img src="./images/Image2.jpeg" alt="Kampagnenbild Julian" style="display: block; margin: 0 auto; max-width: 100%;">
   <h3 style="text-align: center; color: #007030;">Engagiert für echte Veränderungen für die Studierenden der HSG</h3>
   
   <h4>Über mich</h4>
