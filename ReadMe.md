@@ -8,7 +8,7 @@
 <!-- Inline CSS styles -->
 <style>
   /* Headings and dropdown summaries in green */
-  h1, h2, h3, h4, h5, h6, summary {
+  h1, h2, h3,{
     color: #007030;
   }
   /* Paragraphs and list items in dark green */
