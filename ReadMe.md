@@ -51,10 +51,6 @@
   Our goal is to go beyond promises and deliver meaningful improvements—from better study spaces to a more vibrant campus culture.
 </p>
 
-<!-- Insert your images below -->
-<img src="images/Image2.jpeg" alt="Campaign Image 2">
-<img src="images/Image3.jpeg" alt="Campaign Image 3">
-
 <h2>Our Concrete Plans – More Than Just Promises</h2>
 
 <details>
@@ -143,14 +139,20 @@
   <strong>Vote for Leonardo Moser &amp; Julian Bodenmann – because this is change you can see, and value you can feel.</strong>
 </p>
 
-<h2>Contact Us</h2>
+<h2>Contact Us</h2><!-- Insert your images below -->
+<img src="images/Image3.jpeg" alt="Campaign Image 3">
 
 <div style="text-align: center; margin-top: 2rem;">
   <a href="https://www.linkedin.com/in/leonardo-moser-835755209/" target="_blank" style="display: inline-block; padding: 10px 20px; margin-right: 20px; background-color: #007030; color: #fff; text-decoration: none; border-radius: 5px;">
     Contact Leonardo on LinkedIn
   </a>
+</div>
+
+<img src="images/Image2.jpeg" alt="Campaign Image 2">
+<div style="text-align: center; margin-top: 2rem;">
   <a href="https://www.linkedin.com/in/julian-bodenmann-976040299/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #007030; color: #fff; text-decoration: none; border-radius: 5px;">
     Contact Julian on LinkedIn
   </a>
 </div>
+
 
