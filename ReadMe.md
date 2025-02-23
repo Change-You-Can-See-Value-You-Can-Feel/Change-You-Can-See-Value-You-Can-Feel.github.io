@@ -146,9 +146,11 @@
 <h2>Contact Us</h2>
 
 <div style="text-align: center; margin-top: 2rem;">
-  <a href="https://www.linkedin.com/in/leonardo-moser-835755209/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #007030; color: #fff; text-decoration: none; border-radius: 5px;">
+  <a href="https://www.linkedin.com/in/leonardo-moser-835755209/" target="_blank" style="display: inline-block; padding: 10px 20px; margin-right: 20px; background-color: #007030; color: #fff; text-decoration: none; border-radius: 5px;">
     Contact Leonardo on LinkedIn
+  </a>
   <a href="https://www.linkedin.com/in/julian-bodenmann-976040299/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #007030; color: #fff; text-decoration: none; border-radius: 5px;">
     Contact Julian on LinkedIn
   </a>
 </div>
+
