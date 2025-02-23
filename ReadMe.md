@@ -1,7 +1,7 @@
 <!-- Header with Logo and Language Switcher -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
   <div>
-    <img src="images/logo.png" alt="Logo" style="max-height: 50px;">
+    <img src="images/Logo.png" alt="Logo" style="max-height: 50px;">
   </div>
   <div>
     <a href="/de/index/" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 5px;">
