@@ -15,6 +15,12 @@
   p, li, summary {
     color: #01451e;
   }
+
+  /* Normal text in black */
+  p, summary {
+    color: #000000;
+  }
+  
   /* Add spacing between list items for better visual separation */
   li {
     margin-bottom: 10px;
@@ -142,5 +148,7 @@
 <div style="text-align: center; margin-top: 2rem;">
   <a href="https://www.linkedin.com/in/leonardo-moser-835755209/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #007030; color: #fff; text-decoration: none; border-radius: 5px;">
     Contact Leonardo on LinkedIn
+  <a href="https://www.linkedin.com/in/julian-bodenmann-976040299/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #007030; color: #fff; text-decoration: none; border-radius: 5px;">
+    Contact Julian on LinkedIn
   </a>
 </div>
