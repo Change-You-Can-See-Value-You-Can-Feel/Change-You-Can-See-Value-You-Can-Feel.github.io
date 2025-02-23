@@ -1,18 +1,18 @@
 <!-- Language Switcher Button -->
 <div style="text-align: right; margin-bottom: 1rem;">
-  <a href="/de/" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 5px;">
+  <a href="/de/Campagne.md" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 5px;">
     Deutsch
   </a>
 </div>
 
 <!-- Inline CSS styles -->
 <style>
-  /* Headings and dropdown summaries in green */
-  h1, h2, h3,{
+  /* Only big headings are green */
+  h1, h2 {
     color: #007030;
   }
-  /* Paragraphs and list items in dark green */
-  p, li {
+  /* Normal text (paragraphs, list items, and summaries) in dark green */
+  p, li, summary {
     color: #01451e;
   }
   /* Add spacing between list items for better visual separation */
@@ -89,7 +89,7 @@
 </details>
 
 <details>
-  <summary><strong>4. Keeping Study Spaces Open & Rethinking Campus Closures</strong></summary>
+  <summary><strong>4. Keeping Study Spaces Open &amp; Rethinking Campus Closures</strong></summary>
   <p>
     This year, students lost access to study spaces for two weeks during exam season.
   </p>
@@ -109,7 +109,7 @@
   <p>We will:</p>
   <ul>
     <li>✅ Push for open and accessible SHSG meetings, where students can directly engage with leadership.</li>
-    <li>✅ Provide clear updates on major decisions through easy-to-access summaries and Q&A sessions.</li>
+    <li>✅ Provide clear updates on major decisions through easy-to-access summaries and Q&amp;A sessions.</li>
     <li>✅ Ensure more student participation in key decision-making processes, so everyone has a say in shaping their university experience.</li>
   </ul>
 </details>
@@ -122,7 +122,7 @@
   <p>We will:</p>
   <ul>
     <li>✅ Create more interactive student spaces.</li>
-    <li>✅ Organize more networking & cultural events.</li>
+    <li>✅ Organize more networking &amp; cultural events.</li>
     <li>✅ Continue the Christmas event at the Square, making it an annual tradition that brings students together and fosters a stronger sense of community.</li>
   </ul>
 </details>
