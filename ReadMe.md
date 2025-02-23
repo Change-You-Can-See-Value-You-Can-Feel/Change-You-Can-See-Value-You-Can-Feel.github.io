@@ -143,13 +143,13 @@
 
 <!-- Leonardo's Section -->
 <div style="margin-bottom: 3rem;">
-    <h3 style="text-align: center; color: #007030;">Leonardo Moser – Running for SHSG President</h3>
+    <h1 style="text-align: center; color: #007030;">Leonardo Moser – Running for SHSG President</h3>
   <!-- Candidate Image -->
   <img src="images/Image3.jpeg" alt="Campaign Image 3" style="display: block; margin: 0 auto; max-width: 100%;">
   
   <!-- Candidate Headings -->
 
-  <h4 style="text-align: center; color: #007030;">🗳 Change You Can See, Value You Can Feel</h4>
+  <h2 style="text-align: center; color: #007030;">🗳 Change You Can See, Value You Can Feel</h4>
   
   <!-- Candidate Description -->
   <p>
@@ -183,12 +183,12 @@
 
 <!-- Julian's Section -->
 <div>
-    <h3 style="text-align: center; color: #007030;">Julian Bodenmann – Running for SHSG Vice President</h3>
+    <h1 style="text-align: center; color: #007030;">Julian Bodenmann – Running for SHSG Vice President</h3>
   <!-- Candidate Image -->
   <img src="images/Image2.jpeg" alt="Campaign Image 2" style="display: block; margin: 0 auto; max-width: 100%;">
   
 
-  <h4 style="text-align: center; color: #007030;">Committed to Real Change for HSG Students</h4>
+  <h2 style="text-align: center; color: #007030;">Committed to Real Change for HSG Students</h4>
   
   <!-- Candidate Description -->
   <h4>About Me</h4>
