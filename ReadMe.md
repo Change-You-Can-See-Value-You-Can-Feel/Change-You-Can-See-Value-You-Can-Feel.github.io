@@ -139,20 +139,79 @@
   <strong>Vote for Leonardo Moser &amp; Julian Bodenmann – because this is change you can see, and value you can feel.</strong>
 </p>
 
-<h2>Contact Us</h2><!-- Insert your images below -->
-<img src="images/Image3.jpeg" alt="Campaign Image 3">
+<h2>About Us</h2>
 
-<div style="text-align: center; margin-top: 2rem;">
-  <a href="https://www.linkedin.com/in/leonardo-moser-835755209/" target="_blank" style="display: inline-block; padding: 10px 20px; margin-right: 20px; background-color: #007030; color: #fff; text-decoration: none; border-radius: 5px;">
-    Contact Leonardo on LinkedIn
-  </a>
+<!-- Leonardo's Section -->
+<div style="margin-bottom: 3rem;">
+  <!-- Candidate Image -->
+  <img src="images/Image3.jpeg" alt="Campaign Image 3" style="display: block; margin: 0 auto; max-width: 100%;">
+  
+  <!-- Candidate Headings -->
+  <h3 style="text-align: center; color: #007030;">Leonardo Moser – Running for SHSG President</h3>
+  <h4 style="text-align: center; color: #007030;">🗳 Change You Can See, Value You Can Feel</h4>
+  
+  <!-- Candidate Description -->
+  <p>
+    I’m Leonardo Moser, and I am running to be your next SHSG President. My goal is to make student life at HSG more transparent, accessible, and engaging. With experience in leadership, student initiatives, and campus life, I want to bring real, achievable improvements to SHSG—ensuring that every student has a voice and that decisions are made openly and with impact.
+  </p>
+  <h4>About Me</h4>
+  <p>
+    Currently, I work as Deputy Managing Director of Bereich G, managing the operations of [ad]hoc, MeetingPoint, and Square Bar at HSG. My journey started as a bartender, where I learned firsthand how to work with students, organize events, and manage daily operations. Over time, I moved into leadership, overseeing finances, team coordination, and strategic planning for these student spaces.
+  </p>
+  <p>
+    Beyond Bereich G, I am also President of the Bernerverein, where I organize events, foster student connections, and strengthen the student community. This role has taught me how to bring people together, listen to their needs, and improve student life at HSG.
+  </p>
+  <p>
+    Another important part of my journey is that I am in Assessment 2.0. I have no problem being open about this because transparency matters—both personally and in how SHSG should operate. Students should have clear communication about decisions that affect them, and I will make sure that SHSG becomes more open and accessible for everyone.
+  </p>
+  <p>
+    Before coming to HSG, I built a strong foundation in business and finance through my apprenticeship at Helvetia, gaining practical experience in customer service, administration, and problem-solving. Later, I completed the Passerelle, bridging the gap between vocational training and university studies—an experience that reinforced my resilience, adaptability, and strong work ethic.
+  </p>
+  <p>
+    Now, I want to bring my leadership experience, student-first mindset, and problem-solving approach to SHSG, ensuring that student needs are heard and meaningful improvements are made.
+  </p>
+  
+  <!-- Leonardo's LinkedIn Button -->
+  <div style="text-align: center; margin-top: 2rem;">
+    <a href="https://www.linkedin.com/in/leonardo-moser-835755209/" target="_blank" 
+       style="display: inline-block; padding: 10px 20px; background-color: #007030; color: #fff; text-decoration: none; border-radius: 5px;">
+      Contact Leonardo on LinkedIn
+    </a>
+  </div>
 </div>
 
-<img src="images/Image2.jpeg" alt="Campaign Image 2">
-<div style="text-align: center; margin-top: 2rem;">
-  <a href="https://www.linkedin.com/in/julian-bodenmann-976040299/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #007030; color: #fff; text-decoration: none; border-radius: 5px;">
-    Contact Julian on LinkedIn
-  </a>
+<!-- Julian's Section -->
+<div>
+  <!-- Candidate Image -->
+  <img src="images/Image2.jpeg" alt="Campaign Image 2" style="display: block; margin: 0 auto; max-width: 100%;">
+  
+  <!-- Candidate Headings -->
+  <h3 style="text-align: center; color: #007030;">Julian Bodenmann – Running for SHSG Vice President</h3>
+  <h4 style="text-align: center; color: #007030;">Committed to Real Change for HSG Students</h4>
+  
+  <!-- Candidate Description -->
+  <h4>About Me</h4>
+  <p>
+    I’m Julian Bodenmann, and I am running to be your next SHSG Vice President. As a fourth-semester Law and Economics student at HSG, I am passionate about making student life more effective, inclusive, and impactful.
+  </p>
+  <p>
+    My experience spans both academia and leadership. I have completed internships in a legal environment, where I developed analytical and problem-solving skills. Before that, I worked as a music teacher at two music schools, taking on responsibility at a young age, managing students, and honing my ability to communicate and lead. These experiences have strengthened my ability to work in a team, navigate challenges, and push for real results.
+  </p>
+  <p>
+    I know, firsthand, how demanding life at HSG can be—whether it’s balancing studies, work, or extracurricular commitments. That’s why I want to make student representation more accessible, transparent, and effective, ensuring that SHSG truly addresses the needs of all students. I believe in clear communication, practical solutions, and real advocacy to create a better student experience for everyone.
+  </p>
+  <p>
+    With my hands-on leadership experience and solution-oriented mindset, I am ready to take action. As SHSG Vice President, I will work to ensure that student concerns don’t just get heard but lead to meaningful change.
+  </p>
+  
+  <!-- Julian's LinkedIn Button -->
+  <div style="text-align: center; margin-top: 2rem;">
+    <a href="https://www.linkedin.com/in/julian-bodenmann-976040299/" target="_blank" 
+       style="display: inline-block; padding: 10px 20px; background-color: #007030; color: #fff; text-decoration: none; border-radius: 5px;">
+      Contact Julian on LinkedIn
+    </a>
+  </div>
 </div>
+
 
 
