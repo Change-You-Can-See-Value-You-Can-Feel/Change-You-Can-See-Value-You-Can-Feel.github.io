@@ -1,14 +1,9 @@
-<!-- Header with Logo and Language Switcher -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
-  <div>
-    <img src="images/Logo.png" alt="Logo" style="max-height: 200px;">
-  </div>
-  <div>
-    <a href="/de/index/" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 5px;">
-      Deutsch
-    </a>
-  </div>
+<!-- Header with full width logo -->
+<div style="width: 100%; margin-bottom: 1rem;">
+  <img src="images/Logo.png" alt="Logo" style="width: 100%; height: auto;">
 </div>
+
+
 
 <!-- Inline CSS styles -->
 <style>
@@ -43,7 +38,7 @@
   }
 </style>
 
-<h1>Change You Can See, Value You Can Feel</h1>
+
 <img src="images/Image1.jpeg" alt="Campaign Image 1">
 
 <h2>What We Stand For – An SHSG That Truly Makes a Difference</h2>
