@@ -1,3 +1,7 @@
+layout: default
+title: "SHSG-Kampagne"
+permalink: /de/index
+
 <!-- Language Switcher Button -->
 <div style="text-align: right; margin-bottom: 1rem;">
   <a href="SHSG_election25/" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 5px;">
