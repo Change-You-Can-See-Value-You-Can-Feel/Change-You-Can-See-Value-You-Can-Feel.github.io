@@ -5,32 +5,62 @@
   </a>
 </div>
 
+<!-- Inline CSS styles -->
+<style>
+  /* Headings and dropdown summaries in green */
+  h1, h2, h3, h4, h5, h6, summary {
+    color: #007030;
+  }
+  /* Paragraphs and list items in dark green */
+  p, li {
+    color: #01451e;
+  }
+  /* Add spacing between list items for better visual separation */
+  li {
+    margin-bottom: 10px;
+  }
+  /* Ensure images are responsive */
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1rem auto;
+  }
+  /* Dropdown pointer cursor */
+  summary {
+    cursor: pointer;
+  }
+</style>
 
-# Change You Can See, Value You Can Feel
+<h1>Change You Can See, Value You Can Feel</h1>
 
-## What We Stand For – An SHSG That Truly Makes a Difference
+<h2>What We Stand For – An SHSG That Truly Makes a Difference</h2>
 
-We believe in an SHSG that is transparent, responsive, and committed to real change. Student concerns should be heard, decisions should be open, and campus life should be improved with tangible actions.
+<p>
+  We believe in an SHSG that is transparent, responsive, and committed to real change. Student concerns should be heard, decisions should be open, and campus life should be improved with tangible actions.
+</p>
 
-Our goal is to go beyond promises and deliver meaningful improvements—from better study spaces to a more vibrant campus culture.
+<p>
+  Our goal is to go beyond promises and deliver meaningful improvements—from better study spaces to a more vibrant campus culture.
+</p>
 
 <!-- Insert your images below -->
-![Campaign Image 1](images/Image1.jpeg)
-![Campaign Image 2](images/Image2.jpeg)
-![Campaign Image 3](images/Image3.jpeg)
+<img src="images/Image1.jpeg" alt="Campaign Image 1">
+<img src="images/Image2.jpeg" alt="Campaign Image 2">
+<img src="images/Image3.jpeg" alt="Campaign Image 3">
 
-## Our Concrete Plans – More Than Just Promises
+<h2>Our Concrete Plans – More Than Just Promises</h2>
 
 <details>
   <summary><strong>1. More Study Spaces – Because Learning Shouldn’t Be a Competition</strong></summary>
   <p>
     With 10,000 students but only 5,000 study spaces, finding a place to study is a daily struggle.
   </p>
-  <p>
-    We will:
-    - ✅ Expand study space capacity by optimizing existing areas and creating new ones.
-    - ✅ Collaborate with the university to repurpose underused spaces.
-  </p>
+  <p>We will:</p>
+  <ul>
+    <li>✅ Expand study space capacity by optimizing existing areas and creating new ones.</li>
+    <li>✅ Collaborate with the university to repurpose underused spaces.</li>
+  </ul>
 </details>
 
 <details>
@@ -38,11 +68,11 @@ Our goal is to go beyond promises and deliver meaningful improvements—from bet
   <p>
     Current microwaves don’t meet demand, leading to long wait times.
   </p>
-  <p>
-    We will:
-    - ✅ Add microwaves at key locations, especially at Mensa A.
-    - ✅ Ensure better distribution across campus for easier access.
-  </p>
+  <p>We will:</p>
+  <ul>
+    <li>✅ Add microwaves at key locations, especially at Mensa A.</li>
+    <li>✅ Ensure better distribution across campus for easier access.</li>
+  </ul>
 </details>
 
 <details>
@@ -50,12 +80,12 @@ Our goal is to go beyond promises and deliver meaningful improvements—from bet
   <p>
     Adhoc is a key part of student culture, but its size limits participation.
   </p>
-  <p>
-    We will:
-    - ✅ Expand Adhoc to accommodate more students.
-    - ✅ Enhance event accessibility so no one is left out.
-    - ✅ Strengthen campus culture with more space for engagement.
-  </p>
+  <p>We will:</p>
+  <ul>
+    <li>✅ Expand Adhoc to accommodate more students.</li>
+    <li>✅ Enhance event accessibility so no one is left out.</li>
+    <li>✅ Strengthen campus culture with more space for engagement.</li>
+  </ul>
 </details>
 
 <details>
@@ -63,12 +93,12 @@ Our goal is to go beyond promises and deliver meaningful improvements—from bet
   <p>
     This year, students lost access to study spaces for two weeks during exam season.
   </p>
-  <p>
-    We will:
-    - ✅ Ensure co-working spaces remain open during study phases.
-    - ✅ Advocate for broader university access during critical periods.
-    - ✅ Discuss with the administration to prevent full campus closure over Christmas.
-  </p>
+  <p>We will:</p>
+  <ul>
+    <li>✅ Ensure co-working spaces remain open during study phases.</li>
+    <li>✅ Advocate for broader university access during critical periods.</li>
+    <li>✅ Discuss with the administration to prevent full campus closure over Christmas.</li>
+  </ul>
 </details>
 
 <details>
@@ -76,12 +106,12 @@ Our goal is to go beyond promises and deliver meaningful improvements—from bet
   <p>
     SHSG represents all students, but too often, key decisions happen behind closed doors without enough student input.
   </p>
-  <p>
-    We will:
-    - ✅ Push for open and accessible SHSG meetings, where students can directly engage with leadership.
-    - ✅ Provide clear updates on major decisions through easy-to-access summaries and Q&A sessions.
-    - ✅ Ensure more student participation in key decision-making processes, so everyone has a say in shaping their university experience.
-  </p>
+  <p>We will:</p>
+  <ul>
+    <li>✅ Push for open and accessible SHSG meetings, where students can directly engage with leadership.</li>
+    <li>✅ Provide clear updates on major decisions through easy-to-access summaries and Q&A sessions.</li>
+    <li>✅ Ensure more student participation in key decision-making processes, so everyone has a say in shaping their university experience.</li>
+  </ul>
 </details>
 
 <details>
@@ -89,16 +119,28 @@ Our goal is to go beyond promises and deliver meaningful improvements—from bet
   <p>
     University life is more than academics.
   </p>
-  <p>
-    We will:
-    - ✅ Create more interactive student spaces.
-    - ✅ Organize more networking & cultural events.
-    - ✅ Continue the Christmas event at the Square, making it an annual tradition that brings students together and fosters a stronger sense of community.
-  </p>
+  <p>We will:</p>
+  <ul>
+    <li>✅ Create more interactive student spaces.</li>
+    <li>✅ Organize more networking & cultural events.</li>
+    <li>✅ Continue the Christmas event at the Square, making it an annual tradition that brings students together and fosters a stronger sense of community.</li>
+  </ul>
 </details>
 
-## Why This Matters
+<h2>Why This Matters</h2>
 
-These are real changes that will directly improve student life. With your support, we can make HSG a more accessible, engaging, and student-friendly university.
+<p>
+  These are real changes that will directly improve student life. With your support, we can make HSG a more accessible, engaging, and student-friendly university.
+</p>
 
-**Vote for Leonardo Moser & Julian Bodenmann – because this is change you can see, and value you can feel.**
+<p>
+  <strong>Vote for Leonardo Moser &amp; Julian Bodenmann – because this is change you can see, and value you can feel.</strong>
+</p>
+
+<h2>Contact Us</h2>
+
+<div style="text-align: center; margin-top: 2rem;">
+  <a href="https://www.linkedin.com/in/leonardo-moser-835755209/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #007030; color: #fff; text-decoration: none; border-radius: 5px;">
+    Contact Leonardo on LinkedIn
+  </a>
+</div>
