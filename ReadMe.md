@@ -1,8 +1,13 @@
-<!-- Language Switcher Button -->
-<div style="text-align: right; margin-bottom: 1rem;">
-  <a href="/de/index.md" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 5px;">
-    Deutsch
-  </a>
+<!-- Header with Logo and Language Switcher -->
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+  <div>
+    <img src="images/logo.png" alt="Logo" style="max-height: 50px;">
+  </div>
+  <div>
+    <a href="/de/index/" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 5px;">
+      Deutsch
+    </a>
+  </div>
 </div>
 
 <!-- Inline CSS styles -->
@@ -39,6 +44,7 @@
 </style>
 
 <h1>Change You Can See, Value You Can Feel</h1>
+<img src="images/Image1.jpeg" alt="Campaign Image 1">
 
 <h2>What We Stand For – An SHSG That Truly Makes a Difference</h2>
 
@@ -51,7 +57,6 @@
 </p>
 
 <!-- Insert your images below -->
-<img src="images/Image1.jpeg" alt="Campaign Image 1">
 <img src="images/Image2.jpeg" alt="Campaign Image 2">
 <img src="images/Image3.jpeg" alt="Campaign Image 3">
 
