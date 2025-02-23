@@ -1,8 +1,4 @@
----
-layout: default
-title: "SHSG-Kampagne"
-permalink: /de/index/
----
+
 <!-- Header with full width logo -->
 <div style="width: 100%; margin-bottom: 1rem;">
   <img src="./images/NewImage.jpeg" alt="Logo" style="width: 100%; height: auto;">
