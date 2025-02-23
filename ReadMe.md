@@ -1,6 +1,6 @@
 <!-- Language Switcher Button -->
 <div style="text-align: right; margin-bottom: 1rem;">
-  <a href="/de/Campagne.md" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 5px;">
+  <a href="/de/Campaign.md" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 5px;">
     Deutsch
   </a>
 </div>
